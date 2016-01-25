@@ -1,0 +1,10 @@
+Staging area
+
+This is place where your commit goes before getting to the working directory.
+
+The value of the staging area is when you need to make more than one changes.
+
+
+Working directory
+
+this is where your commit is made.
